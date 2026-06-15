@@ -1,0 +1,20 @@
+Relatório Gerencial:
+Total de Produtos Cadastrados → 5
+Total de Estoque → 150
+Total de Entradas de Estoque → 80
+Total de Saídas de Estoque → 65
+Produto(s) de Maior Estoque → Huawei Wi-Fi AX2, Huawei Wi-Fi AX3 (Quantidade: 45)
+Produto(s) de Menor Estoque → MikroTik (Quantidade: 5)
+Valor Total de Estoque → R$50600.00
+
+→ Distribuição por Categorias ←
+Roteador: 3 Produtos
+Switch: 1 Produtos
+RouterBoard: 1 Produtos
+
+→ Classificação dos 5 Produtos Pelo Valor Total em Estoque ←
+Huawei Wi-Fi K5 (ID: 3): R$16000.00
+Huawei Wi-Fi AX2 (ID: 1): R$14400.00
+Huawei Wi-Fi AX3 (ID: 2): R$14400.00
+MikroTik (ID: 5): R$4000.00
+Switch TP-Link (ID: 4): R$1800.00

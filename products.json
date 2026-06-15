@@ -1,37 +1,37 @@
 [
     {
         "id": 1,
-        "name": "açai",
-        "category": "test",
-        "price": 10.0,
-        "stock": 11
+        "name": "Huawei Wi-Fi AX2",
+        "category": "Roteador",
+        "price": 320.0,
+        "stock": 45
     },
     {
         "id": 2,
-        "name": "teste",
-        "category": "testivaldo",
-        "price": 10.0,
-        "stock": 10
+        "name": "Huawei Wi-Fi AX3",
+        "category": "Roteador",
+        "price": 320.0,
+        "stock": 45
     },
     {
         "id": 3,
-        "name": "banana",
-        "category": "frutas",
-        "price": 11.5,
-        "stock": 20
+        "name": "Huawei Wi-Fi K5",
+        "category": "Roteador",
+        "price": 400.0,
+        "stock": 40
     },
     {
         "id": 4,
-        "name": "maça",
-        "category": "frutas",
-        "price": 10.5,
-        "stock": 10
+        "name": "Switch TP-Link",
+        "category": "Switch",
+        "price": 120.0,
+        "stock": 15
     },
     {
         "id": 5,
-        "name": "uva",
-        "category": "frutas",
-        "price": 15.5,
-        "stock": 2
+        "name": "MikroTik",
+        "category": "RouterBoard",
+        "price": 800.0,
+        "stock": 5
     }
 ]

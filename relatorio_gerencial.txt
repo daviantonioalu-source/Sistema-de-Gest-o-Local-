@@ -1,7 +1,0 @@
-ID | Nome | Categoria | Preço | Estoque 
--------------------
-1 | açai | test | R$10.00 | 11
-2 | teste | testivaldo | R$10.00 | 10
-3 | banana | frutas | R$11.50 | 20
-4 | maça | frutas | R$10.50 | 10
-5 | uva | frutas | R$15.50 | 2

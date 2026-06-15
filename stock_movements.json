@@ -2,9 +2,65 @@
     {
         "id": 1,
         "product_id": 1,
-        "type": "entrada",
-        "quantity": 1,
-        "date": "2026-06-05T17:27:51.255856",
-        "observant": "teste ççç é"
+        "type": "Entrada",
+        "quantity": 20,
+        "date": "2026-06-14 18:46:46",
+        "observation": "N/A"
+    },
+    {
+        "id": 2,
+        "product_id": 1,
+        "type": "Entrada",
+        "quantity": 5,
+        "date": "2026-06-14 18:46:56",
+        "observation": "N/A"
+    },
+    {
+        "id": 3,
+        "product_id": 3,
+        "type": "Entrada",
+        "quantity": 25,
+        "date": "2026-06-14 18:47:18",
+        "observation": "N/A"
+    },
+    {
+        "id": 4,
+        "product_id": 4,
+        "type": "Entrada",
+        "quantity": 10,
+        "date": "2026-06-14 18:47:35",
+        "observation": "N/A"
+    },
+    {
+        "id": 5,
+        "product_id": 4,
+        "type": "Saída",
+        "quantity": 45,
+        "date": "2026-06-14 18:47:59",
+        "observation": "N/A"
+    },
+    {
+        "id": 6,
+        "product_id": 5,
+        "type": "Entrada",
+        "quantity": 20,
+        "date": "2026-06-14 18:48:23",
+        "observation": "N/A"
+    },
+    {
+        "id": 7,
+        "product_id": 5,
+        "type": "Saída",
+        "quantity": 15,
+        "date": "2026-06-14 18:48:38",
+        "observation": "N/A"
+    },
+    {
+        "id": 8,
+        "product_id": 5,
+        "type": "Saída",
+        "quantity": 5,
+        "date": "2026-06-14 18:48:59",
+        "observation": "N/A"
     }
 ]

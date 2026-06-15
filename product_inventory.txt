@@ -1,0 +1,7 @@
+ID | NOME | CATEGORIA | PREÇO | ESTOQUE
+↓ =================================== ↓
+1 | Huawei Wi-Fi AX2 | Roteador | R$320.00 | 45
+2 | Huawei Wi-Fi AX3 | Roteador | R$320.00 | 45
+3 | Huawei Wi-Fi K5 | Roteador | R$400.00 | 40
+4 | Switch TP-Link | Switch | R$120.00 | 15
+5 | MikroTik | RouterBoard | R$800.00 | 5

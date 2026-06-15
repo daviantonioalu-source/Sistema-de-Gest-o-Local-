@@ -1,0 +1,10 @@
+ID DE MOVIMENTAÇÃO | ID DO PRODUTO | NOME | TIPO | QUANTIDADE | HORÁRIO | OBSERVAÇÃO
+↓ ================================================================================ ↓
+1 | 1 | Huawei Wi-Fi AX2 | Entrada | 20 | 2026-06-14 18:46:46 | N/A
+2 | 1 | Huawei Wi-Fi AX2 | Entrada | 5 | 2026-06-14 18:46:56 | N/A
+3 | 3 | Huawei Wi-Fi K5 | Entrada | 25 | 2026-06-14 18:47:18 | N/A
+4 | 4 | Switch TP-Link | Entrada | 10 | 2026-06-14 18:47:35 | N/A
+5 | 4 | Switch TP-Link | Saída | 45 | 2026-06-14 18:47:59 | N/A
+6 | 5 | MikroTik | Entrada | 20 | 2026-06-14 18:48:23 | N/A
+7 | 5 | MikroTik | Saída | 15 | 2026-06-14 18:48:38 | N/A
+8 | 5 | MikroTik | Saída | 5 | 2026-06-14 18:48:59 | N/A
