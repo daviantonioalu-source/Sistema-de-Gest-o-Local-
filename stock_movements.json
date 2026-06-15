@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "product_id": 1,
+        "type": "entrada",
+        "quantity": 1,
+        "date": "2026-06-05T17:27:51.255856",
+        "observant": "teste ççç é"
+    }
+]
